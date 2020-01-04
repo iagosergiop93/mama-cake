@@ -1,0 +1,7 @@
+**/application.yml
+
+logs
+
+.idea
+.classpath
+.settings/
